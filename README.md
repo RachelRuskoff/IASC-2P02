@@ -40,4 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Blog Post
 
-First setence of blog post goes here...
+First setence of blog post goes here... [continue reading](blog)
+
+
+
+
