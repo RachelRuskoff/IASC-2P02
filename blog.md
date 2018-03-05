@@ -18,8 +18,11 @@
 # Resources
 
 Ramsay, Stephen. Reading Machines: Toward an Algorithmic Criticism. University of Illinois Press, 2012.
+
 McGann, Jerome, and Lisa Samuels. Deformance and Interpretation.
+
 Stevens, Wallace. The Collected Poems of Wallace Stevens. 1942.
+
 Stiny, George, and James Gips. Algorithmic Aesthetics: Computer Models for Criticism and Design in the Arts. Berkeley: University of California Press.
 
 
