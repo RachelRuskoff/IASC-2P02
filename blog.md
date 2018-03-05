@@ -10,8 +10,6 @@
   
   [https://github.com/RachelRuskoff/IASC-2P02/blob/master/Images/Voyant.PNG]
   
-  [[Images/Voyant.PNG]]
-  
   I used another algorithm in the same poem McGann and Samuels used in their writing, ‘The Search for Sound Free from Motion’ by Wallace Stevens. The voyant tool showed the vocabulary desinty, the average word per sentence and the most frequent words used. From this information, many attributes about the author can be deduced such as their style of writing, their use of vocabulary and the pattern they used in the poem. More can be learned about the author with this concept visual of an algorithm since it shows what they include in their thoughts. Voyant shows how algorithms can be used visually while deriving information from text. I think algorithmic criticism can be used with and without textual attributes to display new information about media.
   
   Other forms of media can benefit from critical patterns or rules to create an interrelated design. Algorithms can be used to determine the best aesthetic for designs. Using an algorithm that was made to show the best design possible would assist developers to see how they should produce their project. George Stiny and James Gips explained how algorithmic criticism can benefit designers and artists in their book, ‘Algorithmic Aesthetics: Computer Models for Criticism and Design in The Arts’. Stiny and Gips Explain, “The process of criticizing or designing a work of art can be very complicated and can involve a full range of mental abilities. The ability to specify a criticism algorithm or a design algorithm may well presuppose the ability to formalize a wide range of perceptual and cognitive skills and a wide range of knowledge.”
