@@ -10,7 +10,7 @@
   
   [https://github.com/RachelRuskoff/IASC-2P02/blob/master/Images/Voyant.PNG]
   
-  [[Images/Voyant.png]]
+  [[Images/Voyant.PNG]]
   
   I used another algorithm in the same poem McGann and Samuels used in their writing, ‘The Search for Sound Free from Motion’ by Wallace Stevens. The voyant tool showed the vocabulary desinty, the average word per sentence and the most frequent words used. From this information, many attributes about the author can be deduced such as their style of writing, their use of vocabulary and the pattern they used in the poem. More can be learned about the author with this concept visual of an algorithm since it shows what they include in their thoughts. Voyant shows how algorithms can be used visually while deriving information from text. I think algorithmic criticism can be used with and without textual attributes to display new information about media.
   
