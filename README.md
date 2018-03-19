@@ -8,7 +8,7 @@ A response to Ramsey's writing discussing algorithmic criticism and dissecting h
 
 ## Solo Presentation
 
-[Click Here] https://rachelruskoff.github.io/IASC-2P02/reveal/index.html
+[Click Here] https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html
 
 
 
