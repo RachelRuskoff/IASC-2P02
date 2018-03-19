@@ -6,6 +6,10 @@ I am a second year at Brock University studying Interactive Arts and Science. I 
 
 A response to Ramsey's writing discussing algorithmic criticism and dissecting his key arguments. Explanation of how his ideas can apply to other texts and ditigal media... [continue reading](blog.md)
 
+## Solo Presentation
+
+[Click Here] https://rachelruskoff.github.io/IASC-2P02/reveal/index.html
+
 
 
 
