@@ -14,19 +14,16 @@ Over time I had made some changes to my research presentation based on feedback.
 
 [Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
+
 ## Other Projects
 
-[Collaborative Project](
+### Collaborative Project
 
-## Collabraitve Project
-Hrere is my 100 word project disscrition
+[StoryMapJS](collaboration.md)
 
-Hrere is my 250 word cloolrabote starment. I approach collabration ion x ways whicj is reflected in y work (availabe [here]
-(link to commit) I also approch collrabation in a ways, which is reflected in b worl which is (avaiale [here])
+### Academic Blog Post 
 
-## Algorithmic Criticism in Digital Humanities 
-
-A response to Ramsey's writing discussing algorithmic criticism and dissecting his key arguments. Explanation of how his ideas can apply to other texts and ditigal media... [continue reading](blog.md)
+[Algorithmic Criticism in the Digital Humanities](blog.md)
 
 
 
