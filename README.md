@@ -11,7 +11,8 @@ For the research presentation, I had to choose an old form of media and present 
 
 Over time I had made some changes to my research presentation based on feedback. The biggest disadvantage of my presentation was the lack of relation to media archeology. This needed to be fixed since the main component of this project was to relate an old device to media archeology and explain its importance. To find a solution, I went through the feedback and made my changes based on what I lacked. I added 5 more slides for the explanation and added headers to organize different points. The first change I made can be seen [here](https://github.com/RachelRuskoff/IASC-2P02/commit/bb0fbf98be11fa25dc7b99a9bb58f8553954f070) I wanted to state why the MiniDisc was important to the time of that era and now. I explained that the focus of MiniDisc was to make a device for the enjoyment of music and that has escalated a lot today. Another change I made shown [here](https://github.com/RachelRuskoff/IASC-2P02/commit/b390dbfac84aee9655d78ab5a07b13c1ae4c7485) is the explanation of why MiniDisc failed and why it is important to know. The MiniDisc failed to comply with the times it was invented in. Instead of creating improvement for the MiniDisc, other devices were made to make up for what it lacked leading it to be forgotten. This sparked a new trend in device culture as having the latest gadget was considered ‘cool’. The final change I made [here](https://github.com/RachelRuskoff/IASC-2P02/commit/fc238e25193723bafe43109643b63b934d1c8e95) was relating it to today’s society and how MiniDisc represents a new outlook. I wanted to explain the importance of this new outlook on technology and society. I went into a further explanation on how the MiniDisc failure shows the norm of technology today.
 
-Read [Title goes here](Readme)
+
+[Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
 ## Collabraitve Project
 Hrere is my 100 word project disscrition
@@ -23,9 +24,7 @@ Hrere is my 250 word cloolrabote starment. I approach collabration ion x ways wh
 
 A response to Ramsey's writing discussing algorithmic criticism and dissecting his key arguments. Explanation of how his ideas can apply to other texts and ditigal media... [continue reading](blog.md)
 
-## Solo Presentation
 
-[Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
 
 
