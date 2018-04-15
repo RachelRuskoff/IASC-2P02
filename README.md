@@ -17,6 +17,7 @@ Over time I had made some changes to my research presentation based on feedback.
 [Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
 
+
 ## Other Projects
 
 ### Collaborative Project
