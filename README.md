@@ -7,7 +7,7 @@ I am a second year at Brock University studying Interactive Arts and Science. I 
 
 ## Featured Project: Research Presentation
 
-![](images/Placeholder.jpg)
+![](Images/MiniDisc.jpg)
 
 For the research presentation, I had to choose an old form of media and present it to fellow classmates in a Pecha Kucha format. I decided to examine the Sony MiniDisc because I found it interesting that despite its failure, the MiniDisc has a loyal following until today. I found out the MiniDisc required a lot of planning prior to its release. However, by the time it was available for purchase, it was considered out of date. Many competitors released devices with greater features and many of those devices costed less than the MiniDisc. For the presentation, I dissected the history of the MiniDisc into slideshow headings and elaborated on the topics. I wanted to share the reasons why it failed since it seemed to be a passionate and innovative project for Sony. Many claimed it was ‘the future of music’ but it never reached that potential. I believe learning about the MiniDisc is significant for Digital Humanities because it displays the impact trends have on society. MiniDisc provides commentary on how cultures change over time and why things should appeal to that specific era if they want to succeed. The MiniDisc shows how many societies have become more materialistic over the years since they typically focus wanted items. Many people feel compelled to buy something simply because it’s new. It is the norm for culture to surround themselves with unneeded items for status or fulfillment. The MiniDisc demonstrated the start of a new wave of materialism in different cultures.
 
