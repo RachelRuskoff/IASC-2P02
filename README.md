@@ -30,7 +30,7 @@ Over time I had made some changes to my research presentation based on feedback.
 
 ### Research Presentation
 
-[Sony MiniDisc Pecha Kucha](research.md)
+[Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
 
 
