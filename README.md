@@ -18,7 +18,7 @@ Over time I had made some changes to my research presentation based on feedback.
 
 
 
-## Other Projects
+## Projects
 
 ### Collaborative Project
 
@@ -27,6 +27,10 @@ Over time I had made some changes to my research presentation based on feedback.
 ### Academic Blog Post 
 
 [Algorithmic Criticism in the Digital Humanities](blog.md)
+
+### Research Presentation
+
+[Sony MiniDisc Pecha Kucha](https://rachelruskoff.github.io/IASC-2P02/Reveal/index.html)
 
 
 
