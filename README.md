@@ -1,6 +1,8 @@
 # IASC 2P02 | Rachel Ruskoff
 ## Bio
 
+![](images/Placeholder.jpg)
+
 I am a second year at Brock University studying Interactive Arts and Science. I hope to learn new development skills to establish a good understanding of digital humanities. My research focus is cultural studies specifically on how technology and digital media influence a certain culture. I want to learn more about how technology and digital media may affect different cultures and what makes cultures react to subjects differently. I also wish to learn more about different cultures in general to gain a better understanding of the world and the people in different nations. Cultural studies can be seen a bit in my research presentation on Sony’s Mini Disc. I discussed its role at the time it was invented and how it failed to adapt to the American culture. I expanded on the influences that were present in cultures or countries at that time that lead to the Mini Disc’s failure. In the future, I hope to expand my knowledge of different cultures because I plan to use it for teaching English as a second language. I want to use this knowledge, so I can become accustomed to different cultures to be able to connect and hopefully inspire my future students.
 
 ## Featured Project: Research Presentation
